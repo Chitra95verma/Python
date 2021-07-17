@@ -1,0 +1,50 @@
+{ "events":[
+    {        "ID": 1,
+        "Title":       "API Discussion",   
+        "Description":     " Creating and Managing APIs",   
+        "StartDate":   "12-june-2021",
+        "EndDate"  : "13-June-2021" ,
+        "StartTime" : "4:00:00pm",
+        " EndTime" : "6:00:00 pm",
+        " Mod" : "GoogleMeet",
+        "Status" :"Completed;"
+    },
+    {
+
+        "ID": 2,
+        "Title":       "API Discussion",   
+        "Description":     " Creating and Managing APIs",   
+        "StartDate":   "12-june-2021",
+        "EndDate"  : "13-June-2021" ,
+        "StartTime" : "4:00:00pm",
+        " EndTime" : "6:00:00 pm",
+        " Mod" : "GoogleMeet",
+        "Status" :"Completed;"
+    },
+    {
+        "workshop1" : {
+            "ID" : 1.01,
+            "Title":       "PigGame",   
+            "Description":     " Creating and Managing Interface & Source",   
+            "StartDate":   "10-june-2021",
+            "EndDate"  : "11-June-2021" ,
+            "StartTime" : "4:00:00pm",
+            " EndTime" : "6:00:00 pm",
+            " Mod" : "GoogleMeet",
+            "Status" :"Completed;"
+        },
+
+        "workshop2" : {
+            "ID" : 1.02,
+            "Title":       "Json",   
+            "Description":     " Creating JsonApi",   
+            "StartDate":   "20-june-2021",
+            "EndDate"  : "21-June-2021" ,
+            "StartTime" : "4:00:00pm",
+            " EndTime" : "6:00:00 pm",
+            " Mod" : "GoogleMeet",
+            "Status" :"Completed;"
+        }
+    }
+]  
+} 
